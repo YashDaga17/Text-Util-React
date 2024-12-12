@@ -25,7 +25,7 @@ Follow these steps to install and run the application locally:
     ```
 2. **Switch Github branch**
     ```sh
-    git checkout branchname 
+    git checkout develop 
     ```
 
 3. **Navigate to the project directory**
